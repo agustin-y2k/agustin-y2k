@@ -13,9 +13,9 @@
 	<p>
   	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 		<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 	</p>
 </details>
 
@@ -29,9 +29,10 @@
 <details>
 	<summary><b>Database skills</b></summary></br>
 	<p>
-		<img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+		<img alt="MySql" src="https://img.shields.io/badge/MySQL-d11702?style=for-the-badge&logo=mysql&logoColor=white"/>
 		<img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-		<img alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+		<img alt="Sqlite" src="https://img.shields.io/badge/SQLite-003552?style=for-the-badge&logo=sqlite&logoColor=white"/>
+		<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-33d113?style=for-the-badge&logo=mongodb&logoColor=white"/>
 	</p>
 </details>
 <details>
