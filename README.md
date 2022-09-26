@@ -8,17 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B5D2&center=true&vCenter=true&width=435&lines=Full+Stack+web+and+app+developer" alt="Typing SVG" /></a>
 </p>
 
-
 <br/>
 
-<p align="center"> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/agustin-y2k?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/agustin-y2k?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/agustin-y2k?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 
 <details>
 	<summary><b>Frameworks skills</b></summary></br>
