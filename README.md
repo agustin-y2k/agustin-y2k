@@ -1,23 +1,24 @@
+<h3 align="center">
+  Welcome to Agustin De Nucci profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<h1 align="center">Hi 👋, I'm  Agustin De Nucci!</h1>
-</br>
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-y2k&langs_count=8&layout=compact&hide=css,html, jupyter Notebook&theme=tokyonight" alt="agustin-y2k" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=agustin-y2k&show_icons=true&include_all_commits=true&theme=tokyonight" alt="agustin-y2k" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B5D2&center=true&vCenter=true&width=435&lines=Full+Stack+web+and+app+developer" alt="Typing SVG" /></a>
 </p>
-</br>
 
-<details>
-	<summary><b>Language skills</b></summary></br>
-	<p>
-  	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-		<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-		<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-		<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-	</p>
-</details>
+
+<br/>
+
+<p align="center"> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/agustin-y2k?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/agustin-y2k?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/agustin-y2k?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 <details>
 	<summary><b>Frameworks skills</b></summary></br>
